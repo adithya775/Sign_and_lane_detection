@@ -1,0 +1,18 @@
+numpy
+matplotlib
+pillow
+opencv-python
+scikit-learn
+scikit-image
+scipy==1.4.1
+pandas
+flask
+ipython
+tensorflow
+keras
+
+# https://convertio.co/ppm-jpg/
+# python==3.6.2
+# Dataset link - https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
+# https://www.rhinocarhire.com/Drive-Smart-Blog/Drive-Smart-Germany/Germany-Road-Signs.aspx
+#pip installs for Sign
